@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestAvito</string>
+    <string name="content_del_button">del</string>
+</resources>
